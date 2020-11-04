@@ -20,3 +20,14 @@ C:\Users\Deveoper\Desktop\Bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.As
 C:\Users\Deveoper\Desktop\Bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.AssemblyInfo.cs
 C:\Users\Deveoper\Desktop\Bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.dll
 C:\Users\Deveoper\Desktop\Bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.pdb
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.exe
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.deps.json
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.runtimeconfig.json
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.runtimeconfig.dev.json
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.dll
+F:\bhavesh\toy-robot\bin\Debug\netcoreapp3.1\toy-robot.pdb
+F:\bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.csprojAssemblyReference.cache
+F:\bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.AssemblyInfoInputs.cache
+F:\bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.AssemblyInfo.cs
+F:\bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.dll
+F:\bhavesh\toy-robot\obj\Debug\netcoreapp3.1\toy-robot.pdb

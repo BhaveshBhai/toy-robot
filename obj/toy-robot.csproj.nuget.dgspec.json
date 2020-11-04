@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deveoper\\Desktop\\Bhavesh\\toy-robot\\toy-robot.csproj": {}
+    "F:\\bhavesh\\toy-robot\\toy-robot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deveoper\\Desktop\\Bhavesh\\toy-robot\\toy-robot.csproj": {
+    "F:\\bhavesh\\toy-robot\\toy-robot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deveoper\\Desktop\\Bhavesh\\toy-robot\\toy-robot.csproj",
+        "projectUniqueName": "F:\\bhavesh\\toy-robot\\toy-robot.csproj",
         "projectName": "toy-robot",
-        "projectPath": "C:\\Users\\Deveoper\\Desktop\\Bhavesh\\toy-robot\\toy-robot.csproj",
+        "projectPath": "F:\\bhavesh\\toy-robot\\toy-robot.csproj",
         "packagesPath": "C:\\Users\\Deveoper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deveoper\\Desktop\\Bhavesh\\toy-robot\\obj\\",
+        "outputPath": "F:\\bhavesh\\toy-robot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
